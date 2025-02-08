@@ -53,3 +53,8 @@ To deploy this project:
 ---
 - Budget reminder
 ![Budget used](https://github.com/user-attachments/assets/8ef5fcd6-76ea-4117-aeea-1f4c4fe61414)
+
+
+## Team:
+### Abejay - Product Devolopment and Innovation
+### Ruhan - Market Analysis and Documentation
