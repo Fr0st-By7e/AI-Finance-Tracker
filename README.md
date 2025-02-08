@@ -1,9 +1,9 @@
-# AI Finance Tracker
+# 🤖AI Finance Tracker
 
 This is the MVP of a simple finance tracker that uses ML models to help in managing finances effeciently.
 
 
-## Deployment
+## 🦾Deployment
 
 To deploy this project: 
 
@@ -12,7 +12,7 @@ To deploy this project:
 - Run gui.py (this is the interface)
 
 
-## Features
+## 🤹Features
 
 - Uses sqlite to store your transactions
 - Add transactions based on category
@@ -25,7 +25,7 @@ To deploy this project:
 - View AI predicted expenses based on your spending patterns 
 
 
-## Screenshots
+## 📲Screenshots
 
 - Home GUI
 ![Home GUI](https://github.com/user-attachments/assets/84774217-6b62-4c20-bb1e-08f2a89c549b)
