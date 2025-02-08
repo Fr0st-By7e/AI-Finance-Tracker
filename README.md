@@ -56,5 +56,5 @@ To deploy this project:
 
 
 ## Team:
-### Abejay - Product Devolopment and Innovation
-### Ruhan - Market Analysis and Documentation
+### 👨‍💻Abejay - Product Devolopment and Innovation
+### 📈Ruhan - Market Analysis and Documentation
