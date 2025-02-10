@@ -9,7 +9,7 @@ To deploy this project:
 
 - Download the files locally
 - Run app.py to initalize the database (local)
-- Run gui.py (this is the interface)
+- Run gui.py (this is the interface through which you can interact with the features)
 
 
 ## 🤹Features
